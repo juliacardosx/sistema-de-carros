@@ -1,0 +1,44 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+#logo-container img {
+  width: 6.8rem;
+  left: 0%;
+  bottom: 1.5rem;
+  position: relative;
+}
+
+nav ul a {
+  color: #174c4f;
+}
+
+h1 {
+  font-family: 'Ultra', serif;
+  color: #174c4f;
+}
+
+.col img {
+  width: 80%;
+}
+
+#logofooter {
+  width: 15%;
+}
+footer {
+  background-color: #174c4f;
+}
+h3 {
+  font-family: 'Poppins', sans-serif;
+}
